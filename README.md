@@ -1,83 +1,125 @@
-# 🌌 Hey there, I'm BEDAN! 👨‍🚀
+<!-- Modern Hacker-Style UI for GitHub Profile README -->
 
-> **"Innovating one line at a time!"**
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bedah-kym&style=flat-square&color=brightgreen" alt="Profile Views">
-  <a href="https://github.com/bedah-kym?tab=followers"><img src="https://img.shields.io/github/followers/bedah-kym?label=Follow&style=flat-square&color=orange" alt="GitHub Followers"></a>
-</p>
+# 🧠 **Bedan Mungai**
+
+### *Backend Engineer • Ethical Hacker in Training • AI Integrator*
+
+> **"Securing systems by understanding how they break."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=bedah-kym\&style=for-the-badge\&color=0BD0D9)
+![Followers](https://img.shields.io/github/followers/bedah-kym?style=for-the-badge\&color=8A2BE2\&label=Followers)
+![Stars](https://img.shields.io/github/stars/bedah-kym?style=for-the-badge\&color=FF1493\&label=Repo%20Stars)
+
+</div>
 
 ---
 
-## 🚀 Mission Control: About Me
+## 🧩 **About Me**
 
 ```yaml
 name: Mungai Bedan
-bio:  reserved with a wicked sense of humor.
-code: ["Python", "javascript", "html/css","typescript"]
-tools: ["Django", "React", "Docker", "Redis", "Heroku"]
-learning: ["Machine Learning", "Kubernetes","hack the box", "CISCO" ]
-fun_fact: "when i Work with devs im fulfilled"
+alias: Bedan Kym
+role: Backend Engineer ➜ Web App Pentester
+core_principle: Security by Design
+languages: [Python, JavaScript, TypeScript, Bash]
+frameworks: [Django, Django REST, HTMX]
+devops: [Docker, Redis, Heroku, Linux]
+learning: [Linux, CCNA, WebApp Pentesting, AI Automation]
+research: [AI-assisted backend optimization, autonomous APIs]
+project_focus: [GigShare Africa — Trust-driven freelancing platform]
 ```
-<p>I’m a <strong>software engineer</strong> with a passion for crafting reliable and efficient applications. Whether it's backend development, DevOps, or designing dynamic UIs, I thrive in bringing ideas to life! When I'm not coding, you can find me exploring the latest in AI or hunting for the best coffee beans. ☕</p>
 
-<h2>🌌 Technologies in My Orbit</h2>
-<ul>
-  <li>🛰️ <strong>Backend</strong>: Django, Flask, Node.js, Redis</li>
-  <li>💻 <strong>Frontend</strong>: React, Vue.js, CSS, HTML</li>
-  <li>☁️ <strong>Cloud</strong>: AWS, Heroku, DigitalOcean</li>
-  <li>🛠 <strong>Tools & DevOps</strong>: Docker, Kubernetes, GitHub Actions, Jenkins</li>
-</ul>
+Backend developer with a security mindset — I **build reliable systems** and **exploit them to strengthen their defenses**. Currently exploring how **AI can power backend automation** and make applications more adaptive. My latest mission: creating **Africa’s first gig-sharing platform** with a built-in **trust engine** to eliminate freelancing scams and build transparency.
 
-<hr>
+---
 
-<h2 align="center">📈 Stellar Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bedah-kym&show_icons=true&hide_border=true&count_private=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedah-kym&layout=compact&langs_count=8&hide_border=true&theme=algolia"/>
-</p>
+## ⚙️ **Tech Arsenal**
 
-<hr>
+| Category               | Tools & Skills                                             |
+| ---------------------- | ---------------------------------------------------------- |
+| 💻 **Languages**       | Python · JavaScript · TypeScript · Bash                    |
+| 🧩 **Frameworks**      | Django · Django REST · HTMX                                |
+| ☁️ **DevOps & Infra**  | Docker · Redis · Heroku · Linux                            |
+| 🧠 **AI & Automation** | LLM-based code optimization · AI-integrated APIs           |
+| 🛡️ **Security**       | Web App Pentesting · CCNA Labs · Ethical Hacking Practices |
 
-<h2>🌟 Featured Projects</h2>
+---
+
+## 🚀 **Highlighted Projects**
+
 <table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>🚀 <a href="https://github.com/bedah-kym/django-chat"><strong>django-chat</strong></a></td>
-    <td>A web-based chatapp made in full stack django, with realtime async communication. end result will be a pluggable chatapp for django </td>
-    <td>Django, Redis, Channels , javascript</td>
-  </tr>
-  <tr>
-    <td>🎨 <a href="https://github.com/bedah-kym/taskfindr"><strong>Taskfindr</strong></a></td>
-    <td>An interactive blogging platform for freelancers to post about jobs and trade secrets </td>
-    <td>Django,Djangorest,postgresql </td>
-  </tr>
-  <tr>
-    <td>🔍 <a href="https://github.com/bedah-kym/django-daraja"><strong>Django daraja api</strong></a></td>
-    <td>this is a library which allows django applications to interact with mpesa Daraja 2.0 API.</td>
-    <td>Python, Djangorest</td>
-  </tr>
-  <tr>
-    <td>🔍 <a href="https://github.com/EduPapersKe"><strong>EDU Papers Api</strong></a></td>
-    <td>This open-source educational resource platform aims to provide a centralized hub for educational materials such as notes, tests, and past papers for students of all levels, from primary and secondary schools to tertiary institutions.</td>
-    <td>DJANGOREST, REACT, Postgresql </td>
-  </tr>
+<tr>
+  <th>Project</th>
+  <th>Description</th>
+  <th>Tech Stack</th>
+</tr>
+<tr>
+  <td>🌍 <a href="https://github.com/bedah-kym"><b>TaskShare Africa</b></a><small>the repo is private only for dev team</small></td>
+  <td>Building Africa’s first trust-based freelancing platform to connect verified professionals and eliminate scammers from remote work.</td>
+  <td>Django · Django REST · HTMX · Redis · PostgreSQL</td>
+</tr>
+<tr>
+  <td>💬 <a href="https://github.com/bedah-kym/django-chat"><b>Django Chat</b></a></td>
+  <td>Modular, real-time chat system using Django Channels with plug-and-play architecture for existing Django apps.</td>
+  <td>Django · Channels · Redis · JavaScript</td>
+</tr>
+<tr>
+  <td>🧠 <a href="https://github.com/bedah-kym/taskfindr"><b>Taskfindr</b></a></td>
+  <td>Freelancer blogging platform — a hub for sharing insights, jobs, and tips within the dev community.</td>
+  <td>Django REST · PostgreSQL</td>
+</tr>
+<tr>
+  <td>🔐 <a href="https://github.com/bedah-kym/django-daraja"><b>Django Daraja API</b></a></td>
+  <td>Library enabling Django apps to interact with the M-PESA Daraja 2.0 API seamlessly.</td>
+  <td>Python · Django REST</td>
+</tr>
+<tr>
+  <td>📘 <a href="https://github.com/EduPapersKe"><b>EDU Papers API</b></a></td>
+  <td>Open educational resource API for Kenyan students — centralizing notes, tests, and past papers for all levels.</td>
+  <td>Django REST · React · PostgreSQL</td>
+</tr>
 </table>
-<hr>
 
-<h2>📬 Reach Out</h2>
+---
 
-<p align="center">
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bedah-kym&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedah-kym&layout=compact&langs_count=8&theme=radical"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bedah-kym\&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bedah-kym\&theme=radical\&no-frame=true\&margin-w=10)
+
+</div>
+
+---
+
+## 🔍 **Learning & Exploration**
+
+* 🧱 Deep-diving into **Linux systems** and **network layers** through CCNA.
+* 🧩 Practicing **web exploitation** and **vulnerability discovery** using my own apps.
+* ⚙️ Researching **AI-driven DevSecOps** — self-defending backend systems.
+* 🧠 Experimenting with **automated testing** using AI-assisted tools.
+
+---
+
+## 📬 **Contact Me**
+
+<div align="center">
   <a href="mailto:bedankimani860@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="www.linkedin.com/in/bedan-k-mungai-191006209"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+  <a href="https://www.linkedin.com/in/bedan-k-mungai-191006209"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/bedah-kym"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
-<hr>
+---
 
-<blockquote>
-  <strong>"Keep pushing boundaries, stay curious, and code boldly!"</strong>
-</blockquote>
+<div align="center">
+
+> **"Build fast. Break smarter. Secure always."**
+> *A creator of resilient systems and a student of controlled chaos.*
+
+</div>
